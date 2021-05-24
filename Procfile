@@ -1,1 +1,1 @@
-bot: target/release/rs-bot
+bot: target/release/rs_bot
